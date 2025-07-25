@@ -1,0 +1,8 @@
+2025-07-23 17:36:21,775 - __main__ - INFO - Starting IMF data ingestion
+2025-07-23 17:36:21,775 - __main__ - INFO - Creating database tables
+2025-07-23 17:36:21,797 - __main__ - INFO - Database tables created successfully
+2025-07-23 17:36:21,798 - __main__ - INFO - Ingesting IMF values
+2025-07-23 17:36:22,390 - __main__ - INFO - IMF values ingested successfully
+2025-07-23 17:36:22,391 - __main__ - INFO - Ingesting IMF indicators
+2025-07-23 17:36:22,408 - __main__ - INFO - IMF indicators ingested successfully
+2025-07-23 17:36:22,408 - __main__ - INFO - IMF data processing completed
